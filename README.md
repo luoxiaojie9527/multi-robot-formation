@@ -1,2 +1,2 @@
-# mutli-robot-formation
-mutli-robot-formation,leader-follower,python,Webots simulator, 
+# multi-robot-formation
+multi-robot-formation,leader-follower,python,Webots simulator, 
